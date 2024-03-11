@@ -4,41 +4,41 @@ In this project, we will convert case.json file into three csv files. The defini
 
 ### 1. CuratedOfferOptions.csv
 
-CurationProvider: in quotes
-OfferId: in quotes
-DealerId: in quotes
-UniqueOptionId: in quotes
-OptionId: in quotes
-IsMobileDealer: without quotes
-IsOpen: without quotes
-Eta: in quotes
-ChamaScore: without quotes
-ProductBrand: in quotes
-IsWinner: without quotes
-MinimumPrice: without quotes
-MaximumPrice: without quotes
-DynamicPrice: without quotes
-FinalPrice: without quotes
-DefeatPrimaryReason: in quotes
-DefeatReasons: in quotes
-EnqueuedTimeSP: DD/MM/YYYY (converted to Brasilian timezone - UTC-3)
+CurationProvider: in quotes  
+OfferId: in quotes  
+DealerId: in quotes  
+UniqueOptionId: in quotes  
+OptionId: in quotes  
+IsMobileDealer: without quotes  
+IsOpen: without quotes  
+Eta: in quotes  
+ChamaScore: without quotes  
+ProductBrand: in quotes  
+IsWinner: without quotes  
+MinimumPrice: without quotes  
+MaximumPrice: without quotes  
+DynamicPrice: without quotes  
+FinalPrice: without quotes  
+DefeatPrimaryReason: in quotes  
+DefeatReasons: in quotes  
+EnqueuedTimeSP: DD/MM/YYYY (converted to Brasilian timezone - UTC-3)  
 
-### 2. DynamicPriceOptions.csv
+### 2. DynamicPriceOptions.csv  
 
-Provider: in quotes
-OfferId: in quotes
-UniqueOptionId: in quotes
-BestPrice: without quotes
-EnqueuedTimeSP: DD/MM/YYYY (converted to Brasilian timezone - UTC-3)
+Provider: in quotes  
+OfferId: in quotes  
+UniqueOptionId: in quotes  
+BestPrice: without quotes  
+EnqueuedTimeSP: DD/MM/YYYY (converted to Brasilian timezone - UTC-3)  
 
 ### 3. DynamicPriceRange.csv
 
-Provider: in quotes
-OfferId: in quotes
-MinGlobal: without quotes
-MinRecommended: without quotes
-MaxRecommended: without quotes
-DifferenceMinRecommendMinTheory: without quotes
+Provider: in quotes  
+OfferId: in quotes  
+MinGlobal: without quotes  
+MinRecommended: without quotes  
+MaxRecommended: without quotes  
+DifferenceMinRecommendMinTheory: without quotes  
 EnqueuedTimeSP: DD/MM/YYYY (converted to Brasilian timezone - UTC-3)  
 
 ### Data Description  
